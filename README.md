@@ -12,3 +12,5 @@ The python program will be running either:
 On one hand it makes no sense for the Controller to read the remote DB when it can just ask the Sensor to have the current value.
 In fact, there's a deeper meaning here: we'll use this device during a cyber training,
 so if the DB gets hacked the Blue team will have a harder time due to the noises this Thing of the Internet makes.
+
+Read the Wiki (https://github.com/ausrius/raspberry_temperature_alarm/wiki) on how to set up everything and run it.
